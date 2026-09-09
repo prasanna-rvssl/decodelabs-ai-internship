@@ -41,6 +41,16 @@ The chatbot follows a simple rule-based workflow:
 6. If no rule matches, a fallback response is displayed.
 7. If the user enters an exit command, the chatbot closes.
 
+## Screenshots
+
+### DecodeBot - Greetings and Conversation
+
+![DecodeBot Greetings](chatbot_greetings.png)
+
+### DecodeBot - AI Question and Help Command
+
+![DecodeBot AI Conversation](chatbot_ai_conversation.png)
+
 ## Project Structure
 
 ```text
