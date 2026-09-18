@@ -190,5 +190,4 @@ task-2-data-classification/
 ├── Dataset for Data Analytics.xlsx
 ├── confusion_matrix_final.png
 ├── k_value_vs_accuracy.png
-├── README.md
-└── requirements.txt
+└── README.md
